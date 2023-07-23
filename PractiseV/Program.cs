@@ -10,7 +10,6 @@ namespace PractiseV
     {
         static void Main(string[] args)
         {
-            int[] theArray = { 1, 2, 3, 4, 5, 6, 7 };
             int[] theArray = { 1, 2, 3, 4, 5, 6, 7, 8 };
             //Pass the array using ref; 
             FillArray(ref theArray);
